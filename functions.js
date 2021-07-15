@@ -1,5 +1,6 @@
 // -------------------------------  LEVEL 1
 
+//lekker huiswerk!
 
 /* Opdracht 1 */
 // Schrijf een functie die een cijfer verwacht en teruggeeft of het cijfer groter is dan nul
